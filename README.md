@@ -28,7 +28,7 @@ Our data collection covers all eight limb-deficiency types across diverse real-w
 | File | Download |
 |------|----------|
 | Training Annotations | [Google Drive](https://drive.google.com/drive/folders/1oXiiVX3pGfKPFJvOw1hWpnC-D9fZVsuv?usp=sharing) |
-| Test Annotations | [Google Drive](https://drive.google.com/file/d/1vN0V5-YQOPsjSSLXQoZUXeX0ihHsRTph/view?usp=sharing) |
+| Test Annotations | [Google Drive](https://drive.google.com/file/d/1vyuiJR9iqbOc_rpLq8UHRqkhy4xyO1yq/view?usp=sharing) |
 
 ## Dataset Usage
 
